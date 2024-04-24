@@ -23,7 +23,7 @@ export const initData = async (nextSeq) => {
         createdAt: getTime(-100, -60 * 60 * 3),
         updatedAt: getTime(-100, -60 * 60 * 3),
         extra: {
-          profileImage: 'uvi.svg',
+          profileImage: 'NiceWeather.jpg',
         },
       },
     ],

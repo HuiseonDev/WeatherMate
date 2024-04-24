@@ -20,8 +20,8 @@ function Login() {
     setError,
   } = useForm({
     values: {
-      email: 'gmltjs6346pk@naver.com',
-      password: '123123123',
+      email: '',
+      password: '',
     },
   });
 

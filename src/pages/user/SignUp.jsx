@@ -15,10 +15,10 @@ function SignUp() {
     setError,
   } = useForm({
     defaultValues: {
-      name: '전희선',
-      email: 'gmltjs6346pk@naver.com',
-      password: '123123123',
-      phone: '01012345678',
+      name: '',
+      email: '',
+      password: '',
+      phone: '',
     },
   });
 
